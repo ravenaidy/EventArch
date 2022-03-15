@@ -10,11 +10,12 @@
     <ItemGroup>
         <PackageReference Include="FluentValidation" Version="10.4.0" />
         <PackageReference Include="MediatR" Version="10.0.1" />
+        <PackageReference Include="MediatR.Contracts" Version="1.0.1" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Dto" />
+      <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>
