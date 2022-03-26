@@ -1,9 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\alist\AppData\Local\JetBrains\Rider2021.2\resharper-host\temp\Rider\vAny\CoverageData\_EventsArch.-375594902\Snapshot\snapshot.utdcvr</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=83449070_002De279_002D4d4b_002D961e_002D270588c9fc54/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AccountService_Validate_Request_Successfully" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::71368FA8-3085-4248-B011-8F8BB7D4CEB8::net6.0::EventArch.AccountService.AccountServiceTests.AccountService_Validate_Request_Successfully&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::71368FA8-3085-4248-B011-8F8BB7D4CEB8::net6.0::AccountServiceTests.AccountService_Validate_Request_Successfully&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::6E165BB4-84DE-49FC-95F7-A8D88FAFC56E::net6.0::LoginService.Tests.LoginTests.LoginService_RegisterLogin_ValidationFail_Then_ThrowException&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::6E165BB4-84DE-49FC-95F7-A8D88FAFC56E::net6.0::LoginServiceTests.LoginTests.LoginService_RegisterLogin_ValidationFail_Then_ThrowException&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

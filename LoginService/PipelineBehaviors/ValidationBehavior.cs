@@ -40,7 +40,7 @@ namespace LoginService.PipelineBehaviors
             {
                 throw new ValidationException(errorsDictionary);
             }
-            return await next();;
+            return await next();
         }
     }
 }

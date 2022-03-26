@@ -4,6 +4,6 @@ namespace Infrastructure.AutoMapperExtensions.Contracts
 {
     public interface IMapTo<T>
     {
-        void CreateMap(Profile profile) => profile.CreateMap(typeof(T), GetType());
+        void CreateMap(Profile profile) => profile.CreateMap(GetType(), typeof(T));
     }
 }
